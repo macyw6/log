@@ -811,9 +811,9 @@ header .head-top .top-menu ul li.active .btn {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 80%;
-  max-width: 100%;
-  height: 80%;
+  width: 55%;
+  max-width: 55%;
+  height: 55%;
 }
 
 .box-items .box-item .desc .name {
