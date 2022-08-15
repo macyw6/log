@@ -700,6 +700,7 @@ header .head-top .top-menu ul li.active .btn {
   position: relative;
   overflow: hidden;
   margin-left: -3%;
+
 }
 
 @media (max-width: 580px) {
@@ -711,13 +712,13 @@ header .head-top .top-menu ul li.active .btn {
 
 .box-items .box-item {
   width: 30.33333%;
-  margin: 0 0 3% 3%;
+  margin: 0 0 -1.5% 3%;
   position: relative;
   overflow: hidden;
   text-align: center;
 }
 
-@media (max-width: 840px) {
+@media (max-width: 5040px) {
   .box-items .box-item {
     width: 47%;
   }
@@ -811,9 +812,9 @@ header .head-top .top-menu ul li.active .btn {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 55%;
-  max-width: 55%;
-  height: 55%;
+  width: 45%;
+  max-width: 45%;
+  height: 45%;
 }
 
 .box-items .box-item .desc .name {
